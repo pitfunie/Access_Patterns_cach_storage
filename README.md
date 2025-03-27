@@ -9,3 +9,5 @@ Summary:
     Write-Around: Bypasses the cache for infrequent updates, focusing on direct writes to the persistent store.
 
     Read with Fallback: Combines cache and storage for efficient data access.
+
+![2025-03-26_23-00-04](https://github.com/user-attachments/assets/91ccc66b-070d-4490-bf9f-a4b36d141308)
